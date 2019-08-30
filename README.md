@@ -1,3 +1,2 @@
-# StartNG Preinternship Task 2
-https://twitter.com/drkizydafizy/status/1164668585639383040;
-https://lucid.blog/zzittoniero/post/1566511080
+# StartNG Preinternship Task 3
+https://lucid.blog/zzittoniero/post/css-to-the-rescue-bd0
